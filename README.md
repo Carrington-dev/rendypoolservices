@@ -33,6 +33,6 @@ This repository is built to provide an online presence for Rendy Pool Services. 
 Visit the homepage to explore services and contact options.
 
 ## License
-This project uses the [Stemgon template](https://stemgon.co.za/rendypoolservices/) by BootstrapMade, subject to [Stemgon's license](https://stemgon.co.za/license/).
+This project uses the [Stemgon template](https://stemgon.co.za/rendypoolservices/) by Stemgon, subject to [Stemgon's license](https://stemgon.co.za/license/).
 
 --- 
