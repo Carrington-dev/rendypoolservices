@@ -20,8 +20,8 @@
       <div class="container position-relative d-flex align-items-center justify-content-between">
         <a href="/" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <!-- <img src="assets/img/logo.png" alt=""> -->
-          <h1 class="sitename"><?php echo "$company"; ?></h1>
+          <img src="assets/img/logo.png" alt="">
+          <!-- <h1 class="sitename"><?php echo "$company"; ?></h1> -->
         </a>
 
         <nav id="navmenu" class="navmenu">
