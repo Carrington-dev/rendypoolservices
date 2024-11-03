@@ -33,6 +33,6 @@ This repository is built to provide an online presence for Rendy Pool Services. 
 Visit the homepage to explore services and contact options.
 
 ## License
-This project uses the [Flattern template](https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/) by BootstrapMade, subject to [BootstrapMade's license](https://bootstrapmade.com/license/).
+This project uses the [Stemgon template](https://stemgon.co.za/rendypoolservices/) by BootstrapMade, subject to [Stemgon's license](https://stemgon.co.za/license/).
 
 --- 
