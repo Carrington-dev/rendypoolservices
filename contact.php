@@ -69,13 +69,13 @@
 
             <div class="info">
               <h3>Get in touch</h3>
-              <p>Et id eius voluptates atque nihil voluptatem enim in tempore minima sit ad mollitia commodi minus.</p>
+              <p>Feel free to contact us and the team at <?php echo "$company"; ?> with your pool services and repair queries. We will gladly offer you a no-obligation quotation on what you need.</p>
 
               <div class="info-item d-flex">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p><?php echo "$address"; ?></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -83,7 +83,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p>info@example.com</p>
+                  <p><?php echo "$email"; ?></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -91,7 +91,7 @@
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
                   <h4>Call:</h4>
-                  <p>+1 5589 55488 55</p>
+                  <p><?php echo "$tel"; ?></p>
                 </div>
               </div><!-- End Info Item -->
 
