@@ -6,7 +6,7 @@
   $adminmail = "crn96m@gmail.com";
   $email = "info@rendypoolservices.co.za";
   $replytomail = $email;
-  $address = "395 Francis Baard Street<br>Pretoria, Gauteng 0001";
+  $address = "395 Francis Baard Street</p><p>Pretoria, Gauteng 0001";
   $copyright = "<p>Copyright &copy; 2014-" . date("Y") . " ". $company . '. All rights reserved.';
 
   ?>

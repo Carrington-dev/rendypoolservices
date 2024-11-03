@@ -35,7 +35,7 @@
 
 <body class="index-page">
 
-<?php include 'includes/header.php';?>
+  <?php include 'includes/header.php';?>
 
 
 
@@ -119,9 +119,9 @@
                 <i class="bi bi-activity"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Nesciunt Mete</h3>
+                <h3>Pool Building</h3>
               </a>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+              <p>Pool Building: Whether you're looking to install a new pool or upgrade your existing one, our expert team can bring your vision to life with precision and efficiency.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -131,9 +131,9 @@
                 <i class="bi bi-broadcast"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Eosle Commodi</h3>
+                <h3>Pool Repair</h3>
               </a>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <p>From minor fixes to major overhauls, we have the expertise to handle any repair job, including leak detection, pump repairs, and more.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -143,9 +143,9 @@
                 <i class="bi bi-easel"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Ledo Markt</h3>
+                <h3>Pool Renovations</h3>
               </a>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <p>Want to give your pool a fresh new look? Our renovation services include retiling, resurfacing, and upgrading to energy-efficient equipment.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -155,9 +155,9 @@
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Asperiores Commodit</h3>
+                <h3>Maintenance Services</h3>
               </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <p>Keep your pool in top condition year-round with our professional maintenance services, including cleaning, chemical balancing, and equipment inspections.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -168,9 +168,9 @@
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Velit Doloremque</h3>
+                <h3>Satisfaction</h3>
               </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <p>  Your satisfaction is our top priority. We work closely with you to understand your needs and preferences, ensuring that we deliver results that exceed your expectations.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -181,9 +181,9 @@
                 <i class="bi bi-chat-square-text"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Dolori Architecto</h3>
+                <h3>Our Efficiency</h3>
               </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <p> Our team consists of highly skilled professionals with years of experience in the industry, ensuring that your pool is in capable hands.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -215,7 +215,7 @@
               <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 1</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -225,7 +225,7 @@
               <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Product 1</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -235,7 +235,7 @@
               <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Branding 1</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -245,7 +245,7 @@
               <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Books 1</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -255,7 +255,7 @@
               <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 2</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -265,7 +265,7 @@
               <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Product 2</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -275,7 +275,7 @@
               <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Branding 2</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -285,7 +285,7 @@
               <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Books 2</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -295,7 +295,7 @@
               <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 3</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -305,7 +305,7 @@
               <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Product 3</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -315,7 +315,7 @@
               <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Branding 3</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -325,7 +325,7 @@
               <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Books 3</h4>
-                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                <p>Heat Pumps and Solar installations</p>
                 <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
@@ -386,98 +386,8 @@
 
   </main>
 
-  <footer id="footer" class="footer dark-background">
+  <?php include 'includes/footer.php';?>
 
-    <div class="footer-top">
-      <div class="container">
-        <div class="row gy-4">
-          <div class="col-lg-4 col-md-6 footer-about">
-            <a href="index.html" class="logo d-flex align-items-center">
-              <span class="sitename">Flattern</span>
-            </a>
-            <div class="footer-contact pt-3">
-              <p>A108 Adam Street</p>
-              <p>New York, NY 535022</p>
-              <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-              <p><strong>Email:</strong> <span>info@example.com</span></p>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Terms of service</a></li>
-              <li><a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Web Development</a></li>
-              <li><a href="#">Product Management</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Hic solutasetp</h4>
-            <ul>
-              <li><a href="#">Molestiae accusamus iure</a></li>
-              <li><a href="#">Excepturi dignissimos</a></li>
-              <li><a href="#">Suscipit distinctio</a></li>
-              <li><a href="#">Dilecta</a></li>
-              <li><a href="#">Sit quas consectetur</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Nobis illum</h4>
-            <ul>
-              <li><a href="#">Ipsam</a></li>
-              <li><a href="#">Laudantium dolorum</a></li>
-              <li><a href="#">Dinera</a></li>
-              <li><a href="#">Trodelas</a></li>
-              <li><a href="#">Flexo</a></li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="copyright text-center">
-      <div class="container d-flex flex-column flex-lg-row justify-content-center justify-content-lg-between align-items-center">
-
-        <div class="d-flex flex-column align-items-center align-items-lg-start">
-          <div>
-            © Copyright <strong><span>MyWebsite</span></strong>. All Rights Reserved
-          </div>
-          <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-          </div>
-        </div>
-
-        <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
-          <a href=""><i class="bi bi-twitter-x"></i></a>
-          <a href=""><i class="bi bi-facebook"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
-          <a href=""><i class="bi bi-linkedin"></i></a>
-        </div>
-
-      </div>
-    </div>
-
-  </footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
